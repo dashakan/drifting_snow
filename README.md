@@ -36,5 +36,6 @@ https://canva.link/g6ij53qmdaqdbpe
 - `plot3_M2` — runoff–snow transport, drainage basins, masks, and elevation bins
 - `statistics_M2` — statistical significance tests and spatial maps of near-surface wind speed, surface density, threshold friction velocity, surface melt, and near-surface air temperature
 - `sst_anomaly` — plots time series of tas and tos for the members of CMIP6 ensemble
+- `curv` — mean surface curvature, gaussian, elevation to investigate surface properties
 
 
