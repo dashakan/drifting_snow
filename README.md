@@ -37,5 +37,5 @@ https://canva.link/g6ij53qmdaqdbpe
 - `statistics_M2` — statistical significance tests and spatial maps of near-surface wind speed, surface density, threshold friction velocity, surface melt, and near-surface air temperature
 - `sst_anomaly` — plots time series of tas and tos for the members of CMIP6 ensemble
 - `curv` — mean surface curvature, gaussian, elevation to investigate surface properties
-- `plot_M2` — future anomalies, drifting snow effect, spatial maps shown in 3 different ways for all available SMB components, summary table
+- `plot_M2` — future anomalies, drifting snow effect, spatial maps shown in 3 different ways for all available SMB components, summary table, anomaly of anomaly of melt (DS-nDS) is a first anomaly and second one is 2071-2100 minus 1981-2010 these two together makes anomaly of anomaly
 
